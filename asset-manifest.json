@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iphoneclonecalcreactjs/static/css/main.98c0de3d.chunk.css",
+    "main.js": "/iphoneclonecalcreactjs/static/js/main.dd9dc15b.chunk.js",
+    "main.js.map": "/iphoneclonecalcreactjs/static/js/main.dd9dc15b.chunk.js.map",
+    "runtime-main.js": "/iphoneclonecalcreactjs/static/js/runtime-main.90bd4011.js",
+    "runtime-main.js.map": "/iphoneclonecalcreactjs/static/js/runtime-main.90bd4011.js.map",
+    "static/js/2.ee43015b.chunk.js": "/iphoneclonecalcreactjs/static/js/2.ee43015b.chunk.js",
+    "static/js/2.ee43015b.chunk.js.map": "/iphoneclonecalcreactjs/static/js/2.ee43015b.chunk.js.map",
+    "static/js/3.8ff9c33e.chunk.js": "/iphoneclonecalcreactjs/static/js/3.8ff9c33e.chunk.js",
+    "static/js/3.8ff9c33e.chunk.js.map": "/iphoneclonecalcreactjs/static/js/3.8ff9c33e.chunk.js.map",
+    "index.html": "/iphoneclonecalcreactjs/index.html",
+    "static/css/main.98c0de3d.chunk.css.map": "/iphoneclonecalcreactjs/static/css/main.98c0de3d.chunk.css.map",
+    "static/js/2.ee43015b.chunk.js.LICENSE.txt": "/iphoneclonecalcreactjs/static/js/2.ee43015b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/iphoneclonecalcreactjs/static/media/iphone.2f2dba1a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90bd4011.js",
+    "static/js/2.ee43015b.chunk.js",
+    "static/css/main.98c0de3d.chunk.css",
+    "static/js/main.dd9dc15b.chunk.js"
+  ]
+}
